@@ -1,4 +1,4 @@
-namespace mongodb_dotnet_example.Models
+namespace tigris_mongodb_dotnet_example.Models
 {
     public class GamesDatabaseSettings : IGamesDatabaseSettings
     {

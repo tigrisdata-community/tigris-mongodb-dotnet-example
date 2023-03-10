@@ -1,9 +1,9 @@
-using mongodb_dotnet_example.Models;
-using mongodb_dotnet_example.Services;
-using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc;
+using tigris_mongodb_dotnet_example.Models;
+using tigris_mongodb_dotnet_example.Services;
 
-namespace mongodb_dotnet_example.Controllers
+namespace tigris_mongodb_dotnet_example.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,7 +1,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace mongodb_dotnet_example.Models
+namespace tigris_mongodb_dotnet_example.Models
 {
     public class Game
     {

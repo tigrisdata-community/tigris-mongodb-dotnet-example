@@ -1,9 +1,9 @@
-using mongodb_dotnet_example.Models;
-using MongoDB.Driver;
 using System.Collections.Generic;
 using System.Linq;
+using MongoDB.Driver;
+using tigris_mongodb_dotnet_example.Models;
 
-namespace mongodb_dotnet_example.Services
+namespace tigris_mongodb_dotnet_example.Services
 {
     public class GamesService
     {
